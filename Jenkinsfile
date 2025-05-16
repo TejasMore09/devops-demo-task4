@@ -1,0 +1,1 @@
+pipeline:\n  stage: build
